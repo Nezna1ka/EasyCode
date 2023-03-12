@@ -3,4 +3,4 @@ ___
 #### Basics of HTML and CSS
 
 
-![example](img/easyCode1.gif)
+![example](img/easyCode2.gif)
